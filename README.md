@@ -8,7 +8,7 @@ I'm a passionate software developer who loves to explore new technologies and so
 - 🌱 I’m continuously learning and improving my skills in web development, AI, and cloud computing.
 - 👯 I’m looking to collaborate on exciting projects that make a difference.
 - 💬 Ask me about anything tech-related, I'm always up for a chat!
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [email@example.com](mailto:aditya1596k@gmail.com)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love hiking and photography!
 
@@ -48,8 +48,8 @@ I'm a passionate software developer who loves to explore new technologies and so
 
 ## Get in Touch
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [twitter.com/yourprofile](https://twitter.com/yourprofile)
-- Blog: [yourblog.com](https://yourblog.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/raxeraditya1)
+- Twitter: [twitter.com/yourprofile](https://twitter.com/k37aditya)
+- Blog: [yourblog.com](https://raxeraditya.vercel.app)
 
 Thanks for visiting my profile! Have a great day! 😄
